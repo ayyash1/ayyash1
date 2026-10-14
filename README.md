@@ -47,28 +47,28 @@ I'm a Computer Engineering graduate who loves building AI systems end to end, fr
 
 <div align="center">
 
-**💻 Languages**<br/>
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css&theme=dark" alt="Languages"/>
 <br/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Verilog-4B5563?style=flat-square" alt="Verilog"/> <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly"/> <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white" alt="Embedded C"/>
 
 <br/><br/>
 
-**🧠 AI, ML & Generative AI**<br/>
+**AI, ML & Generative AI**<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="ML and CV"/>
 <br/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/> <img src="https://img.shields.io/badge/MCP-1F2937?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/> <img src="https://img.shields.io/badge/Chroma-3B82F6?style=flat-square" alt="Chroma"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
 
 <br/><br/>
 
-**📊 Data, Analytics & Cloud**<br/>
+**Data, Analytics & Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,hadoop,spark,azure,aws,gcp&theme=dark" alt="Data and Cloud"/>
 <br/>
 <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive"/> <img src="https://img.shields.io/badge/Ambari-D22128?style=flat-square&logo=apache&logoColor=white" alt="Ambari"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 <br/><br/>
 
-**⚙️ Backend, Web & DevOps**<br/>
+**Backend, Web & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,docker,linux,git,github,vercel&theme=dark" alt="Backend and DevOps"/>
 
 </div>
@@ -77,12 +77,12 @@ I'm a Computer Engineering graduate who loves building AI systems end to end, fr
 
 | Domain | Skills & Concepts |
 |---|---|
-| 🧠 **Machine & Deep Learning** | Machine Learning, Deep Learning, Computer Vision, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Transformers, Pandas, NumPy |
-| 🤖 **Generative & Agentic AI** | Gen AI, LLM Integration, Prompt Engineering, RAG, Embeddings, Vector Databases (Pinecone, Chroma), AI Agents, Multi-agent Systems, Tool Calling, Model Context Protocol (MCP), LLM Reasoning Chains, Human-in-the-loop, LangChain, LangGraph, HuggingFace, OpenAI API, n8n Automation |
-| 📊 **Data Engineering & Analytics** | ETL, Data Warehouse & Data Mining, Data Analysis, Spark, Hadoop, Apache Hive, Ambari, PostgreSQL, MongoDB, Power BI, Microsoft Fabric, Excel |
-| ☁️ **Cloud & DevOps** | Azure, AWS, GCP, Docker, Linux, Git, GitHub, Vercel, Automation |
-| 🌐 **Backend & Web** | FastAPI, REST API, Node.js, React.js, HTML, CSS, JavaScript |
-| 💻 **Languages & Low-level** | Python, C++, Java, SQL, Verilog, Assembly, Embedded C, JavaScript |
+| **Machine & Deep Learning** | Machine Learning, Deep Learning, Computer Vision, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Transformers, Pandas, NumPy |
+| **Generative & Agentic AI** | Gen AI, LLM Integration, Prompt Engineering, RAG, Embeddings, Vector Databases (Pinecone, Chroma), AI Agents, Multi-agent Systems, Tool Calling, Model Context Protocol (MCP), LLM Reasoning Chains, Human-in-the-loop, LangChain, LangGraph, HuggingFace, OpenAI API, n8n Automation |
+| **Data Engineering & Analytics** | ETL, Data Warehouse & Data Mining, Data Analysis, Spark, Hadoop, Apache Hive, Ambari, PostgreSQL, MongoDB, Power BI, Microsoft Fabric, Excel |
+| **Cloud & DevOps** | Azure, AWS, GCP, Docker, Linux, Git, GitHub, Vercel, Automation |
+| **Backend & Web** | FastAPI, REST API, Node.js, React.js, HTML, CSS, JavaScript |
+| **Languages & Low-level** | Python, C++, Java, SQL, Verilog, Assembly, Embedded C, JavaScript |
 
 ---
 
