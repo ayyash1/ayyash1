@@ -1,8 +1,7 @@
-
 <!-- ═══════════════ HEADER (animated waving banner) ═══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ahamed%20Ayyash&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20%26%20Agentic%20Systems&descSize=19&descAlignY=60&descColor=9be7ff" alt="Ahamed Ayyash banner"/>
+<img width="100%" src="./banner.svg" alt="Ahamed Ayyash - AI Engineer"/>
 
 <!-- Typing animation -->
 <a href="https://www.ayyash.tech">
@@ -20,7 +19,6 @@
 <a href="https://www.ayyash.tech"><img src="https://img.shields.io/badge/Portfolio-ayyash.tech-1abc9c?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/ayyashfous1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ahamedayyash111@gmail.com"><img src="https://img.shields.io/badge/Email-ahamedayyash111%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=ayyash1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -186,7 +184,7 @@ Segmentation model trained on sparse point annotations with partial cross-entrop
 
 <img src="https://streak-stats.demolab.com?user=ayyash1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayyash1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
+<img width="100%" src="https://ghchart.rshah.org/00d9ff/ayyash1" alt="Contribution chart"/>
 
 </div>
 
@@ -217,5 +215,3 @@ I'm looking for AI / ML engineering and software engineering opportunities, and 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=9BE7FF&center=true&vCenter=true&width=560&lines=%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;Thanks+for+stopping+by+%E2%9C%A8" alt="Footer typing"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer wave"/>
